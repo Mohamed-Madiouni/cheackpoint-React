@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.btn{
+  background-color: rgb(8, 142, 231) !important;
 }
+.form{
+  width: 80%;
+}
+.container{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
